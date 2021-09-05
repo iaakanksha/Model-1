@@ -5,6 +5,7 @@ Welcome, Here is my first End-to-end Machine Learning Web application which is b
 So basically what does this app do is very simple it takes only 3 inputs from user and based on that it predicts the salary of the employee.
 
 ![salary](https://thumbs.dreamstime.com/b/salary-salary-cube-letters-concept-coins-120735176.jpg)
+
 ## Screenshots
 
 Here is the final look of my app.
@@ -12,6 +13,16 @@ Here is the final look of my app.
 
 
 **Note**: I have kept my frontend simple by purpose you can definitely make it more fashionable..
+
+## Demo
+
+To see my working model kindly follow this link
+
+
+```bash
+ https://aakansha-salary-prediction.herokuapp.com/
+
+```
   
 ## 🚀 About Me
 Namaste!!
