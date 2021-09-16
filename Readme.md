@@ -20,7 +20,7 @@ To see my working model kindly follow this link
 
 
 ```bash
- https://aakansha-salary-prediction.herokuapp.com/
+https://salaryapp-1.herokuapp.com/predict
 
 ```
   
